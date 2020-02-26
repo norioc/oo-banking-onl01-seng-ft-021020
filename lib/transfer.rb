@@ -28,12 +28,5 @@ class Transfer
       self.status = "rejected"
       "Transaction rejected. Please check your amount balance."
   end
-  end
-  
-  
-  
-  
-  
-  
-  
+ 
 end
